@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="MyCoolStyle">
+    <style name="MyCoolStyle" parent="Theme.Login">
         <item name="android:textSize">@dimen/textSize</item>
         <item name="android:layout_marginStart">@dimen/margin</item>
         <item name="android:layout_marginEnd">@dimen/margin</item>
